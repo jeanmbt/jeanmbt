@@ -51,4 +51,4 @@ I am sociable and I find it enriching knowing more about people I'm around and t
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanmbt&show_icons=true&locale=en&layout=compact" alt="jeanmbt" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmbt&" alt="jeanmbt" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanmbt" alt="jeanmbt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanmbt" alt="jeanmbt" /></a> </p>
