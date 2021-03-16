@@ -35,7 +35,7 @@ I am sociable and I find it enriching knowing more about people I'm around and t
 - ⚡ Fun fact: 
   I fall asleep watching https://www.youtube.com/user/OrderoftheGoodDeath or https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanmbt" alt="jeanmbt" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,3 +51,4 @@ I am sociable and I find it enriching knowing more about people I'm around and t
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanmbt&show_icons=true&locale=en&layout=compact" alt="jeanmbt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanmbt&" alt="jeanmbt" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanmbt" alt="jeanmbt" /></a> </p>
