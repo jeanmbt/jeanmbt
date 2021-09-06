@@ -5,44 +5,11 @@
 
 I am Jean Michel Battirola, a creative soul and a **change embracer**. I moved to Germany in September 2017. Leaving a stable position on the market in as a Beauty Artist in my home country looking for more **opportunities to grow**, learn and get in touch with people from different backgrounds, I chose Berlin as the starting point of this part of my journey.
 
-Having a enormous Interest in Technology and curiosity about how people use it in their lives, I ended up discovering myself as a **enthusiastic Web-Developer**. My former experiences prepared me for the challenges I face daily when developing Web Applications like trouble shooting and user experience, so there's no challenge big enough for me. I intrinsically feel the necessity to learn, create, build and share and I find **Programming is the perfect medium for that**. Since the end of my Bootcamp experience in March 2021, using the Full-Stack knowledge I gathered so far I already developed real-life use projects of my own authorship.
+Having a enormous interest in Technology, curiosity about how people use it in their lives, and a bunch of free time because of the corona crisis, I ended up discovering myself as a **enthusiastic Web-Developer**. My former experiences prepared me for the challenges I face daily when developing Web Applications from trouble shooting to user experience, so there's no challenge big enough for me. I intrinsically feel the necessity to learn, create, build and share and I find **Programming is the perfect medium for that**. Since the end of my Bootcamp experience in March 2021, using the Full-Stack knowledge I gathered so far I already developed real-life use projects of my own authorship.
 
-Part of my daily routine is to research different topics to aggregate knowledge and improve my interpersonal and technical skills set. I am creative, proactive and I naturally think out of the box to come up with **clever solutions** for problems I face. I find one of the most valuable experiences is to know more about people's stories, who they are, what they do and build healthy relationships, which makes me a excellent team worker. I'm eager to learn and **develop myself** therefore I'm constantly practicing exertion. I like to put extra energy to deliver best possible and **exceed expectations** with everything I do.
+Part of my daily routine is to research different topics to aggregate knowledge and improve my interpersonal and technical skills set. I am proactive and I naturally think out of the box to come up with **clever solutions** for the problems I face. I find one of the most valuable experiences is to know more about people's stories, who they are, what they do and build healthy relationships, which makes me a excellent team worker. I'm eager to learn and **develop myself** therefore I'm constantly practicing exertion. I like to put extra energy to deliver best possible and **exceed expectations** with everything I do.
 
 I'm looking forward to dive deeper every day in Programming and Development and to learn more from experienced professionals. My priority is to have a healthy work routine so that I can be the most productive and use my time and **brain energy on what really matters**. On that account I'm prepared for and mostly interested in working in a Remote Setting.
-
-- 🔭 I’m currently working on
-   - [myly ](https://myly-lyrics-app.herokuapp.com/)
-   - Cementing all the knowledge I gathered in the last months and  bringing new content for my brain to digest.
-   
-- 🌱 I’m currently learning
-   - React
-   - APIs
-   - Rails
-   - JS
-   - sass
-   
-- 👯 I’m looking to collaborate on
-   - Creative, fun, bold projects that challenge me
-   
-- 🤔 I’m looking for help with 
-   - Support and Feedback
-   
-- 💬 Ask me about
-  - Anything, I like to talk about stuff
-  
-- 📫 How to reach me: 
-
-  - [email](jeanbattirola@gmail.com)
-  
-- 😄 Pronouns: 
-  He/They
-  
-- ⚡ Fun fact: 
-  - I'm always searching for multiple new hobbies and even I get surprised sometimes with my latest interests.
-  - I'm weird - I fall asleep watching [Ask a Mortician](https://www.youtube.com/user/OrderoftheGoodDeath) or [What if](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) or other stuff about space and humans (or not earthly living creatures).
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
