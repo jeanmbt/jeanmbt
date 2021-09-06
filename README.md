@@ -14,9 +14,7 @@ I'm looking forward to dive deeper every day in Programming and Development and 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeanmbt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeanmbt" height="30" width="40" /></a>
-<a href="https://kaggle.com/jeanmichelbattirola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jeanmichelbattirola" height="30" width="40" /></a>
 <a href="https://instagram.com/jean.hmua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jean.hmua" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeanmbt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jeanmbt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
